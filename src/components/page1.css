@@ -1,0 +1,26 @@
+button {
+  background-color: rgb(36, 199, 99);
+  padding: 10px 15px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 20px;
+  color: rgb(251, 253, 255);
+  font-weight: 600;
+}
+.page1 {
+  width: 90%;
+  margin: auto;
+  margin-top: 40px;
+}
+table {
+  width: 70%;
+  margin: auto;
+  margin-top: 40px;
+
+  border: 2px solid rgb(36, 199, 99);
+}
+td,
+th {
+  border: 2px solid rgb(36, 199, 99);
+  font-size: 16px;
+}
